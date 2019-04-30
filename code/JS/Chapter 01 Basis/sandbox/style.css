@@ -1,0 +1,10 @@
+p {
+  color: chartreuse;
+  font-family: cursive;
+}
+h2 {
+  color: red;
+  font-kerning: auto;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}

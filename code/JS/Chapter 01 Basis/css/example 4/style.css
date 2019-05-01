@@ -1,0 +1,27 @@
+.main-box {
+  display: block;
+  padding: 100px 200px;
+  background-color: blueviolet;
+}
+#container {
+  display: block;
+  background-color: #ccc;
+  color: Blue;
+  padding: 100px 200px;
+  font-size: 110%;
+}
+.red {
+  color: red;
+  display: inline;
+}
+.cursive {
+  font-family: cursive;
+}
+
+.grande {
+  font-size: 200%;
+}
+
+.small {
+  font-size: 150%;
+}
